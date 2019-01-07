@@ -1,5 +1,3 @@
-# Created by Sk4ters
-
 
 $pkg install git
 
@@ -11,6 +9,6 @@ $pip2 install lolcat
 
 $git clone https:/github.com/Sk4ters48/Sk4ters.git
 
-$cd Sk4ters.git
+$cd Sk4ters
 
 $sh Sk4ters.sh
