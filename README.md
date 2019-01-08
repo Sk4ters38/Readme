@@ -7,7 +7,7 @@ $pkg install bash
 
 $pip2 install lolcat
 
-$git clone https:/github.com/Sk4ters48/Sk4ters.git
+$git clone https:/github.com/Sk4ters38/Sk4ters.git
 
 $cd Sk4ters
 
