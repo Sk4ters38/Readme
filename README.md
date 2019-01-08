@@ -1,4 +1,4 @@
-$pkg update && upgrade
+$pkg update && pkg upgrade
 $pkg install bash
 $pip2 install lolcat
 $pkg install git
